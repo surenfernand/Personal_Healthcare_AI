@@ -9,7 +9,7 @@ import Simple from "@/components/Home/Simple";
 import Faq from "@/components/Home/Faq";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Crypto",
+  title: "Personal_Healthcare",
 };
 
 export default function Home() {

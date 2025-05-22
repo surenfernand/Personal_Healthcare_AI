@@ -56,7 +56,7 @@ export const Featuresdata: { imgSrc: string; heading: string; subheading: string
     {
         imgSrc: '/images/features/featureTwo.svg',
         heading: 'Free to use',
-        subheading: 'Top notch crypto portfolio traking at no cost',
+        subheading: 'Top notch Personal_Healthcare portfolio traking at no cost',
     },
     {
         imgSrc: '/images/features/featureThree.svg',
@@ -68,15 +68,15 @@ export const Featuresdata: { imgSrc: string; heading: string; subheading: string
 
 export const Faqdata: { heading: string; subheading: string; }[] = [
     {
-        heading: "1. What is cryptocurrency?",
+        heading: "1. What is Personal_Healthcarecurrency?",
         subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
     },
     {
-        heading: "2. Can cryptocurrency be converted to cash?",
+        heading: "2. Can Personal_Healthcarecurrency be converted to cash?",
         subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
     },
     {
-        heading: "3. How long should you hold cryptocurrency?",
+        heading: "3. How long should you hold Personal_Healthcarecurrency?",
         subheading: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into'
     },
 

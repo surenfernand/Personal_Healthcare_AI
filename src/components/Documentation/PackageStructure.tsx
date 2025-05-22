@@ -14,7 +14,7 @@ export const PackageStructure = () => {
         <div className="rounded-md p-6 pt-3 border border-white mt-6">
           <div className="flex items-center gap-4">
             <h5 className="text-base font-medium text-white/60 mt-3 mb-1">
-              Crypto Tailwind NextJs Template
+              Personal_Healthcare Tailwind NextJs Template
             </h5>
           </div>
           <ul className="ps-0 md:ps-5 list-unstyled">

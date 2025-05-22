@@ -39,9 +39,9 @@ const footer = () => {
             <img
               className="block h-12 w-20px mb-4"
               src={'/images/logo/logo.svg'}
-              alt="Crypto-Logo"
+              alt="Personal_Healthcare-Logo"
             />
-            <h3 className='text-white/60 text-sm font-normal leading-9 mb-4 lg:mb-16'> Cryptocurrency is a type of virtual currency that uses cryptography to secure transactions that are digitally recorded on a distributed ledger, such as a blockchain.</h3>
+            <h3 className='text-white/60 text-sm font-normal leading-9 mb-4 lg:mb-16'> Personal_Healthcarecurrency is a type of virtual currency that uses Personal_Healthcaregraphy to secure transactions that are digitally recorded on a distributed ledger, such as a blockchain.</h3>
             <div className='flex gap-4'>
               {socialLinks.map((items, i) => (
                 <Link href={items.href} key={i}><img src={items.imgsrc} alt={items.imgsrc} className='footer-icons' /></Link>
